@@ -1,11 +1,11 @@
 # Article Based Query Resolver AI Tool
 
-☀️Overview :
+☀️**Overview** :
 
 This repository contains the development of my college major project— **AI Article Based Query Resolver Tool** designed for efficient literature analysis. The system enables users to query documents such as research papers, articles, and web pages to retrieve precise, contextually relevant answers grounded in verifiable sources.
 The project is a work-in-progress, and this repository will be updated regularly as new features and optimizations are added. Below is a detailed explanation of the features, workflow, and technologies employed.
 
-💻Tech Stack :
+💻**Tech Stack** :
 
 Python Environment :
 
