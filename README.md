@@ -1,4 +1,4 @@
-# AI-Query-Resolver-Tool
+# Article Based Query Resolver AI Tool
 
 ☀️Overview :
 
