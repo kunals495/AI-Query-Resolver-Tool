@@ -2,20 +2,31 @@
 
 ☀️Overview :
 
-This repository contains the development of my college major project—a AI Article Based Query Resolver Tool designed for efficient literature analysis. The system enables users to query documents such as research papers, articles, and web pages to retrieve precise, contextually relevant answers grounded in verifiable sources.
+This repository contains the development of my college major project— **AI Article Based Query Resolver Tool** designed for efficient literature analysis. The system enables users to query documents such as research papers, articles, and web pages to retrieve precise, contextually relevant answers grounded in verifiable sources.
 The project is a work-in-progress, and this repository will be updated regularly as new features and optimizations are added. Below is a detailed explanation of the features, workflow, and technologies employed.
 
 💻Tech Stack :
 
-Python Environment,
-Python 3.8 or higher,
-IDE: PyCharm (for primary development),
+Python Environment :
+
+Python 3.8 or higher
+
+Development Environment :
+
+IDE: PyCharm (for primary development)
+
 Notebook: Jupyter Notebook (for model experimentation and prototyping),
-Key Libraries and Frameworks,
-LangChain: To manage and chain LLM interactions,
-Hugging Face Transformers: For pre-trained models and tokenizers,
-FAISS: For efficient similarity search and vector storage,
-Streamlit: For creating an interactive web-based UI, 
+
+Key Libraries and Frameworks :
+
+LangChain: To manage and chain LLM interactions
+
+Hugging Face Transformers: For pre-trained models and tokenizers
+
+FAISS: For efficient similarity search and vector storage
+
+Streamlit: For creating an interactive web-based UI.
+
 Google Gemini API: Integrates advanced language understanding and multimodal capabilities.
 
 🕛Installation & Usage :
