@@ -46,13 +46,18 @@ streamlit run app.py
 Screenshot Preview
 The following is a preview of how the final interface will look upon project completion:
 
-![Screenshot 2024-10-23 005212](https://github.com/user-attachments/assets/ef630be0-3478-49f5-846c-df0642af8062)
-![Screenshot 2024-10-23 004603](https://github.com/user-attachments/assets/8afb8b1c-f00a-4c39-b91e-8810a19d0cbb)
-![Screenshot 2024-10-23 005330](https://github.com/user-attachments/assets/4d93c203-3353-43cf-9f26-30345f306672)
-![Screenshot 2024-10-23 005639](https://github.com/user-attachments/assets/751d3765-9d66-41be-8a95-2227e9ac19f7)
-![Screenshot 2024-10-23 010540](https://github.com/user-attachments/assets/004c64ad-19de-49f6-8efe-5c2d3c1e48b0)
+![Image](https://github.com/user-attachments/assets/18fd3c82-99dd-48a9-9508-713642f63819)
 
-##Acknowledgments :
+![Image](https://github.com/user-attachments/assets/71e8902a-de25-4fa6-a9a6-44e8af2371c1)
+![image](https://github.com/user-attachments/assets/1d117447-7eeb-4f6d-b0b3-bda9716940c7)
+![image](https://github.com/user-attachments/assets/9068e7b0-4c7a-4f4b-bae1-d3ff2542637d)
+
+
+![image](https://github.com/user-attachments/assets/bdd310be-c765-4ca2-a627-4232ab6e477c)
+
+
+
+Acknowledgments :
 
 This project represents the culmination of my academic journey and the skills I have developed over the years. It combines my knowledge of Data Structures and Algorithms, AI technologies, and hands-on experience with advanced development tools.
 
