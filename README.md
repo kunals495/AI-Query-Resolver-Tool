@@ -1,11 +1,11 @@
 # Article Based Query Resolver AI Tool
 
-☀️**Overview** :
+☀️##**Overview** :
 
 This repository contains the development of my college major project— **AI Article Based Query Resolver Tool** designed for efficient literature analysis. The system enables users to query documents such as research papers, articles, and web pages to retrieve precise, contextually relevant answers grounded in verifiable sources.
 The project is in ⛔**WORK-IN-PROGRESS**, and this repository will be updated regularly as new features and optimizations are added. Below is a detailed explanation of the features, workflow, and technologies employed.
 
-💻**Tech Stack** :
+💻##**Tech Stack** :
 
 Python Environment :
 
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 Launch the Streamlit application using the following command:
 streamlit run app.py  
 
-Screenshot Preview
+##Screenshot Preview
 The following is a preview of how the final interface will look upon project completion:
 
 ![Screenshot 2024-10-23 005212](https://github.com/user-attachments/assets/ef630be0-3478-49f5-846c-df0642af8062)
@@ -52,7 +52,7 @@ The following is a preview of how the final interface will look upon project com
 ![Screenshot 2024-10-23 005639](https://github.com/user-attachments/assets/751d3765-9d66-41be-8a95-2227e9ac19f7)
 ![Screenshot 2024-10-23 010540](https://github.com/user-attachments/assets/004c64ad-19de-49f6-8efe-5c2d3c1e48b0)
 
-Acknowledgments :
+##Acknowledgments :
 
 This project represents the culmination of my academic journey and the skills I have developed over the years. It combines my knowledge of Data Structures and Algorithms, AI technologies, and hands-on experience with advanced development tools.
 
